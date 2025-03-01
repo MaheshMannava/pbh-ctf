@@ -1,0 +1,3 @@
+semaphore_secret = ""
+provider_uri = "https://sepolia-rpc.worldcoin.org"
+player_address = "0xd4E41a10bECD90434bD1f2C0Bc65d25fec5629D1"
